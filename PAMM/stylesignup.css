@@ -1,0 +1,9 @@
+/*CSS File For signup webpage*/
+
+ #body-color{ background-color:#6699CC; } 
+
+#signup{ 
+margin-top:10%; margin-bottom:auto; margin-right:auto; margin-left:auto; border:3px solid #a1a1a1; padding:9px 35px; background:white; width:400px; border-radius:20px; box-shadow: 7px 7px 6px; }
+
+ #button{ border-radius:10px; width:100px; height:40px; background:#FF00FF; font-weight:bold; font-size:20px }
+

@@ -1,0 +1,39 @@
+#Container {
+     width:960px;
+     height:auto;
+	 margin-left:auto;
+	 margin-right:auto;
+	 margin-top:11px;
+	 margin-bottom:21px;
+         
+}
+#Header {
+     height:100px;
+     background-color:#CCC;
+     font-size:40px;
+     text-align:center;
+      line-height:100px;	 
+}	 
+#Menu {
+     height:60px;
+	 background-color:#666;
+}
+#sidebar {
+     width:20%;
+	 height:400px;
+	 background-color:#0C0;
+	 float:left;
+        overflow:hidden;
+}
+#Mainbody {
+     width:80%;
+	 height:400px;
+	 background-color:#03C;
+	 float:right;
+        overflow:hidden;
+}
+#Footer {
+     height:100px;
+	 background:#CCC;
+	 clear:both;
+}
